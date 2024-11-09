@@ -12,7 +12,7 @@
 
 To install all the dependences of the project, run the following command:
 
-    git clone https://github.com/shakti1590/Contact-list-using-react.git
+    git clone https://github.com/im-rahulPawar/Contact-List-using-ReactJS
     npm install
     npm start
 
